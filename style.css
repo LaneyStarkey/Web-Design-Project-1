@@ -1,0 +1,13 @@
+.body {
+  box-sizing: border-box;
+}
+
+._91-1 {
+  width: 647px;
+  height: 1719px;
+  position: absolute;
+  left: -323px;
+  top: -46px;
+  object-fit: cover;
+  aspect-ratio: 647/1719;
+}
