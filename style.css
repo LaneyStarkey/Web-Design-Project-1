@@ -50,6 +50,8 @@ height:400px;
 margin-left:42px;
 margin-top:42px;
 border-radius: 8px;
+border: 8px solid;
+border-color: #d21876
 }
 
 .container-4 {
@@ -61,8 +63,6 @@ margin-top:-44px;
 border-radius: 8px;
 border: 8px solid;
 border-color: #d21876;
-
-
 }
 
 .container-2-nav{
