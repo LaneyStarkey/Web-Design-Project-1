@@ -18,7 +18,7 @@ margin-right: auto;
   height: 1000px;
   background-image: url(images/CheetahPrint.jpeg);
   background-position: center;
-  mask-repeat: repeat-y;
+  mask-repeat: repeat-x;
 }
 
 .navigation-2 {
