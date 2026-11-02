@@ -93,3 +93,13 @@ border-color: #d21876;
   border-color:#d21876;
   margin-left: 60px;
 }
+
+.container-7{
+  background-color: white;
+  width:360px;
+  height:130px;
+  margin-top: -40px;
+  border: 5px solid;
+  border-color:#d21876;
+  margin-left: 85px;
+}
