@@ -1,3 +1,6 @@
 body.{
-  background-image:image (.CheetahPrint);
+  background-image: url(.CheetahPrint);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
