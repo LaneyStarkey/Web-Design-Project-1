@@ -181,6 +181,10 @@ border-radius: 8px;
 border: 5px solid;
 border-color: #d21876
 }
+.container-12-nav{
+background-color: #d21876;
+height:25px;
+}
 
 .container-13 {
 background-color: black;
@@ -191,4 +195,9 @@ margin-top:-400px;
 border-radius: 8px;
 border: 5px solid;
 border-color: #d21876
+}
+
+.container-13-nav{
+background-color:#d21876;
+height:25px;
 }
