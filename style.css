@@ -114,6 +114,7 @@ width: 453px;
 height:70px;
 margin-left: 425px;
 margin-top: 23px;
+border-radius: 8px;
 }
 .container-8-nav{
 background-color: #d21876;
@@ -126,6 +127,7 @@ width: 395px;
 height:70px;
 margin-left: 485px;
 margin-top: 25px;
+border-radius: 8px;
 }
 
 .container-9-nav{
@@ -139,6 +141,7 @@ width: 330px;
 height:70px;
 margin-left: 550px;
 margin-top: 24px;
+border-radius:8px;
 }
 
 .container-10-nav{
