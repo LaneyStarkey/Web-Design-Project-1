@@ -66,6 +66,7 @@ border-color: #d21876;
 .container-2-nav{
   background-color: #d21876;
   height: 45px;
+  border-radius:8px;
 }
 
 .container-4-nav{
