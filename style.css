@@ -59,8 +59,9 @@ height:400px;
 margin-left:430px;
 margin-top:-44px;
 border-radius: 8px;
-border: 8px;
-padding: 8px color #d21876;
+border: 8px solid;
+border-color: #d21876;
+
 
 }
 
