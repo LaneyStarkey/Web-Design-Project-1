@@ -34,7 +34,8 @@ margin-right: auto;
 .logo{
   height: auto;
   width:190px;
-  margin-left: 30px;
+  
+  position: center;
 
 }
 
