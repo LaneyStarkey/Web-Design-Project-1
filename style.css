@@ -154,3 +154,14 @@ border-color: #d21876;
 background-color: #d21876;
 height:15px;
 }
+
+.container-11{
+background-color: white;
+width: 800px;
+height:400px;
+margin-left: 550px;
+margin-top: 24px;
+border-radius:8px;
+border: 2px solid;
+border-color: white;
+}
