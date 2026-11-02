@@ -115,6 +115,7 @@ height:70px;
 margin-left: 425px;
 margin-top: 23px;
 border-radius: 8px;
+border: 5px solid;
 }
 .container-8-nav{
 background-color: #d21876;
@@ -128,6 +129,7 @@ height:70px;
 margin-left: 485px;
 margin-top: 25px;
 border-radius: 8px;
+border: 5px solid;
 }
 
 .container-9-nav{
@@ -142,6 +144,7 @@ height:70px;
 margin-left: 550px;
 margin-top: 24px;
 border-radius:8px;
+border: 5px solid;
 }
 
 .container-10-nav{
