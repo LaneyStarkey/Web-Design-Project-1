@@ -116,29 +116,31 @@ margin-left: 425px;
 margin-top: 23px;
 }
 .container-8-nav{
-background-color: white;
+background-color: #d21876;
+height:15px
 }
 
 .container-9{
 background-color: white;
-width: 400px;
+width: 395px;
 height:70px;
-margin-left: 787px;
+margin-left: 793px;
 margin-top: 88px;
 }
 
 .container-9-nav{
-background-color: white;
+background-color: #d21876;
+height:15px 
 }
 
 .container-10{
 background-color: white;
-width: 325px;
+width: 330px;
 height:70px;
 margin-left: 858px;
 margin-top: 27px;
 }
 
 .container-10-nav{
-background-color: white;
+background-color: #d21876;
 }
