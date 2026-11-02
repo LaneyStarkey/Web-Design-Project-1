@@ -22,5 +22,6 @@ margin-right: auto;
 
 .navigation {
   background-color: white;
-  height: 45px;
+  height: 35px;
+  margin-top: 30px;
 }
