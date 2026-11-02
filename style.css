@@ -17,6 +17,8 @@ margin-right: auto;
   width: 100%;
   height: 2000px;
   background-image: url(images/for\ space\ hey.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .navigation-2 {
