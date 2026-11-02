@@ -20,3 +20,7 @@ margin-right: auto;
   background-position: center;
 }
 
+.nav {
+  background-color: white;
+  height: 100px
+}
