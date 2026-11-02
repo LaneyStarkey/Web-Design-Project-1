@@ -170,3 +170,14 @@ border-color: white;
 background-color: white;
 height:25px;
 }
+
+.container-12 {
+background-color: black;
+width: 400px;
+height:400px;
+margin-left:42px;
+margin-top:42px;
+border-radius: 8px;
+border: 5px solid;
+border-color: #d21876
+}
