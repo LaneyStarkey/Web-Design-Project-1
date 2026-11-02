@@ -58,8 +58,8 @@ width: 400px;
 height:400px;
 margin-left:430px;
 margin-top:-44px;
-border-width: 8px;
-border: 8px color(#d21876)
+border-radius: 8px;
+border: 8px;
 }
 
 .container-2-nav{
