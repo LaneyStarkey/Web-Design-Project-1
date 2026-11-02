@@ -10,3 +10,12 @@
   background-image: url(images/CheetahPrint.jpeg);
   background-position: center;
 }
+
+.rectangle-7 * {
+  box-sizing: border-box;
+}
+.rectangle-7 {
+  background: #000000;
+  height: 1550px;
+  position: relative;
+}
