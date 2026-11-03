@@ -170,7 +170,8 @@ margin-top: 75px;
 border-radius:8px;
 border: 2px solid;
 border-color: white;
-color:white
+color:white;
+
 }
 
 .container-11-nav{
@@ -228,3 +229,8 @@ height:25px;
   font-size: 20px;
 }
 
+.syncopate-regular {
+  font-family: "Syncopate", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
