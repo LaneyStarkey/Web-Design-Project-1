@@ -217,23 +217,11 @@ height:25px;
   height: 45px;
 }
 
-.page-2-button-1{
- margin-left: 100px;
- font-size:20px;
- 
+.button-1{
+margin-left:30px;
+font-size:20px;
 }
 
-.footer-button{
-  margin-left: 1470px;
-  margin-top:9px;
-  font-size: 20px;
-}
-
-.syncopate-regular {
-  font-family: "Syncopate", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
 
 .button-2{
 margin-left:30px;
